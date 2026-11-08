@@ -165,3 +165,7 @@ This project helped me understand how the frontend, backend, and database work t
 One important lesson was that checking user input in the browser is not enough. The server must independently validate requests and enforce record ownership.
 
 Implementing authentication, CSRF protection, database constraints, and error handling also demonstrated how security affects the entire application rather than just the login process.
+
+## GitHub Repository
+
+https://github.com/clare-dotcom/Investment-Tracker-PA2
